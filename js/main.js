@@ -4,7 +4,7 @@ for (i=1; i<=100; i++){
         console.log("FizzBuzz");
 
         document.getElementById("container-for-squares").innerHTML += `
-        <div class="square-red-fizzBuzz">
+        <div class="square-red-fizzbuzz">
             <p>FizzBuzz</p>
         </div>
         `;
